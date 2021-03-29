@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook MacBook Pro",
+      "price": "12000"
+    },
+    {
+      "id": 2,
+      "name": "Carregador avulso Into circuit",
+      "price": "258.79"
+    },
+    {
+      "id": 3,
+      "name": "kindle Light Plus",
+      "price": 489.99
+    },
+    {
+      "id": 4,
+      "name": "Camera Go Pro Ultra",
+      "price": "5876.89"
+    }
+  ]
+}
